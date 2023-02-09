@@ -43,6 +43,9 @@ public void checkCatsCardsQuantity(){
 }
 
 
+public void checkTimeSecondCat(){
+
+}
 
 
 @After
